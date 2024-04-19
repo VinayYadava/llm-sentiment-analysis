@@ -1,0 +1,9 @@
+{
+    "LLM_API_KEY": "",
+    "LLM_PROVIDER": "openai",
+    "MODEL_NAME": "",
+    "MAX_TOKENS": 50,
+    "SUPPORTED_LLMS": [
+        "openai"
+    ]
+}
